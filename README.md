@@ -26,5 +26,9 @@ LinkedIn:url(["https://www.linkedin.com/posts/gokulakrishnan-b-b-tech-it-0323172
 
 output: 
 ![entry jpg](https://github.com/user-attachments/assets/1284bca2-d8a2-457c-8fc4-4f18a69b41cf)
+![image](https://github.com/user-attachments/assets/12a856a4-7c53-4133-9812-296306f4adf8)
+
+
+
 
 
