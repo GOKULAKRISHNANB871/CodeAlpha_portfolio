@@ -23,5 +23,6 @@ Author
 Name:GOKULAKRISHNAN B
 Email:gokulakrishnanb145@gmail.com
 LinkedIn:url(["https://www.linkedin.com/posts/gokulakrishnan-b-b-tech-it-032317259_codealpha-outputofmusicplayer-greatful-activity-7221197194073153536-lWk6?utm_source=share&utm_medium=member_android"])
-output:
-url(["file:///C:/Users/gokul/Desktop/xampp/htdocs/design.html"])
+
+output:url(["C:\Users\gokul\Pictures\Screenshots\entry.jpg.png"])
+
